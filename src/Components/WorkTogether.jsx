@@ -1,17 +1,5 @@
 export default function WorkTogether() {
   return (
-    // <div>
-    //   <h1>
-    //     Do you have Project Idea? <br />
-    //     Let's discuss your Project!
-    //   </h1>
-    //   <p>
-    //     There are many variations of passages of Lorem Ipsum available, <br />{" "}
-    //     but the majority have suffered alteration.
-    //   </p>
-    //   <button>Let's work together</button>
-    // </div>
-
     <div className="px-6 md:px-20 py-16 bg-[#132238] text-center">
       <h1 className="text-3xl md:text-4xl font-extrabold text-white mb-6 leading-snug">
         Do you have a Project Idea?
